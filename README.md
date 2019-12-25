@@ -1,4 +1,4 @@
-# PHL-Observing-Reports
+# PHL Observing Reports
 
 This repository will contain Python and IDL programs for generating observing reports for the Planetary Habitability Laboratory's observing projects at the Arecibo Observatory.
 
