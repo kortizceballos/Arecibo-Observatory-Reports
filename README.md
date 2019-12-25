@@ -1,2 +1,2 @@
 # PHL-Observing-Reports
-Reports generated for radio astronomy work with Arecibo at the Planetary Habitability Laboratory
+Programs for generating reports for radio astronomy work with Arecibo at the Planetary Habitability Laboratory
